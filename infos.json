@@ -1,0 +1,12 @@
+{
+  "displayName" : "CVEScan",
+  "author" : ["Eric Meygret"],
+  "contributor" : [""],
+  "supportedAgent" : ["Unix"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "Liste les cve à l'aide de l'outil cvescan de Canonical https://github.com/canonical/sec-cvescan",
+    "en" : "List CVE with cvescan tool from Canonical https://github.com/canonical/sec-cvescan "
+  }
+}

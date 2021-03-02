@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hookstore>
+    <hook type="lang">
+        <value>en_GB</value>
+        <value>fr_FR</value>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_cvescan</identifier>
+        <translation>152001</translation>
+        <category>other</category>
+        <available>cvescan</available>
+    </hook>
+    <hook type="submenu">
+        <mainmenuidentifier>ms_extension</mainmenuidentifier>
+        <identifier>ms_cvescan</identifier>
+        <translation>25633</translation>
+    </hook>
+</hookstore>
